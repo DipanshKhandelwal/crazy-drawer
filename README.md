@@ -3,7 +3,9 @@
 Are you struggling with implementing complex dribble designs? Look no further! This project is here to assist you in creating stunning and interactive UI designs with ease.
 
 ## Demo Video
-Experience the magic in action by watching the demo video [here](https://github.com/user-attachments/assets/927086b9-9ec2-4667-9f98-d2a5efa597d9).
+Experience the magic in action by watching the demo video
+
+https://github.com/user-attachments/assets/927086b9-9ec2-4667-9f98-d2a5efa597d9
 
 ## Technologies Used
 This project leverages the following cutting-edge technologies to deliver a seamless experience:
